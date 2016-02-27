@@ -4,5 +4,4 @@
 ssh -p 1234 username1@ftp.firstdomain.com -t "rm -rf ~/tmp/*"
 ssh -p 1234 username2@ftp.seconddomain.com -t "rm -rf ~/tmp/*"
 ssh -p 1234 username3@ftp.thirddomain.com -t "rm -rf ~/tmp/*"
-ssh -p 1234 username4@ftp.fourthdomain.com -t "rm -rf ~/tmp/*"
 
